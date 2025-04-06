@@ -26,4 +26,4 @@ This project is a PHP user management system using an object-oriented approach (
 
 - **index.php** - main file for testing the system.
 
-Translated with DeepL.com (free version)
+
